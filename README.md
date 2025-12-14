@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi there, I'm Odihi Samuel George
+Economics |Datsa & Business Intelligent Analyst | Researcher
+Econometrics & Statistics | power BI, Tableau, mySQL, Excel, | Stata, SPSS, Eviews | Python & R 
+Turning Complex data into Actonable insight for Business, policy & Research
 
-<!--
-**odihisamuel-cpu/odihisamuel-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## What I Do
+- Economic research & Forecasting
+- Data clearning, Analysis & Visualization
+- Financial Reporting & Business Intelligence
+- Building reproducible workflows
 
-Here are some ideas to get you started:
+## Featurered Projects
+check out some of my work below
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me
+Email: odihisamuel@gmail.com
+
+
