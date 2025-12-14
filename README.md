@@ -5,6 +5,7 @@ Econometrics & Statistics | Power BI, Tableau, mySQL, Excel, | Stata, SPSS, Evie
 
 ## What I Do
 - Economic research & Forecasting
+- Advance econometrics research | primary & Secondary | Time series & Panel Data analysis
 - Data clearning, Analysis & Visualization
 - Financial Reporting & Business Intelligence
 - Building reproducible workflows
