@@ -17,6 +17,7 @@ https://public.tableau.com/app/profile/george.samuel.odihi/vizzes
 
 ## Connect with me
 Email: odihisamuel@gmail.com
+LinkedIN: https://www.linkedin.com/in/george-odihi-512a18269/
 
 
 
