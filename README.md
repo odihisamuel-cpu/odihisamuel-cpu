@@ -14,6 +14,7 @@ Econometrics & Statistics | Power BI, Tableau, mySQL, Excel, | Stata, SPSS, Evie
 check out some of my work below
 https://independent.academia.edu/OdihiSamuel
 https://public.tableau.com/app/profile/george.samuel.odihi/vizzes
+Kaggle: https://www.kaggle.com/odihisamuel
 
 ## Connect with me
 Email: odihisamuel@gmail.com
