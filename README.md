@@ -1,5 +1,5 @@
 ## Hi there, I'm Odihi Samuel George
-Economics | Data & Business Intelligent Analyst | Researcher
+Economics | M&E| Data & Business Intelligent Analyst | Researcher
 Econometrics & Statistics | Power BI, Tableau, mySQL, Excel, | Stata, SPSS, Eviews | Python & R 
 | Turning Complex data into Actonable insight for Business, policy & Research
 
