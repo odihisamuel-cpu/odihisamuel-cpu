@@ -1,5 +1,5 @@
 ## Hi there, I'm Odihi Samuel George
-Economics | M&E| Data & Business Intelligent Analyst | Researcher
+Economics | M&E| Data & Business Intelligent Analyst | Researcher | Data Scientist|
 Econometrics & Statistics | Power BI, Tableau, mySQL, Excel, | Stata, SPSS, Eviews | Python & R 
 | Data Interpretation | BI Analysis, policy & Research
 
@@ -8,7 +8,9 @@ Econometrics & Statistics | Power BI, Tableau, mySQL, Excel, | Stata, SPSS, Evie
 - Advance econometrics research | primary & Secondary | Time series & Panel Data analysis
 - Data clearning, Analysis & Visualization
 - Financial Reporting & Business Intelligence
-- Building reproducible workflows
+- Building reproducible workflow
+- ETL
+- Cloud Storage
 
 ## Featurered Projects
 check out some of my work below
