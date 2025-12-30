@@ -6,7 +6,10 @@ ETL | Machine Learning | Project monitoring | Project Evaluation | Project  | Ev
 ## What I Do
 - Economic research & Forecasting
 - Advance econometrics research | primary & Secondary | Time series & Panel Data analysis
-- Data clearning, Analysis & Visualization
+- Data clearning,
+- Data Analysis
+- Data Visualization
+- Power BI DAX
 - Business Inteligent analysis
 - Data Storytelling
 - Project mangement
