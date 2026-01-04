@@ -1,7 +1,7 @@
 ## Hi there, I'm Odihi Samuel George
 Data Analyst| Data Scientist | M&E Specialist | Researcher | Economist | 
 Tableau Storytelling | Excel power query | SQL Data base management | Power BI DAX |
-ETL | Machine Learning | Project monitoring | Project Evaluation | Project  | Eview, SPss, stata and R
+ETL | Machine Learning | Project monitoring | Project Evaluation | Project management | Eview, SPss, stata and R
 
 ## What I Do
 - Economic research & Forecasting
